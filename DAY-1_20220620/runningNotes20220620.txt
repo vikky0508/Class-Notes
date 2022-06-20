@@ -1,0 +1,19 @@
+Agenda :
+
+- Sharing Session Notes, Images & Videos etc:
+
+Session Notes, Images will be shared : GitLab :
+    - https://gitlab.com/cloudbinary/devops-20220620-11am
+
+Session Videos will be shared        : LMS : 
+    - Management will share 
+
+- Accessing Of AWS & Azure Cloud Computing Vendors :
+
+- Connecting to Cloud Computing Vendors using CLI & SDK
+
+- Provisioning of Ec2 instance in AWS using Shell Script
+
+- Provisioning of Virtual Machines in AZURE using Shell Script
+
+Q?
