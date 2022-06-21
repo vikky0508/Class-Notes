@@ -1,0 +1,36 @@
+# linux distributions list  : https://en.wikipedia.org/wiki/List_of_Linux_distributions
+
+- Ubuntu : Ubuntu Server 22.04 LTS
+    - https://ubuntu.com/
+
+- AmazonLinux :
+
+- Redhat :
+    - Fedora
+    - RHEL
+    - CentOS
+
+- Suse
+
+
+# What we do part of Linux distributions:
+
+- User Management
+
+- Group Management
+
+- Commands : 1. Basic and 2. Advanced Commands 
+
+- Download, Install & Configure softwres using package managers # apt-get install apache2 
+
+- Controlling Services and Daemons : systemctl status apache2 
+
+- Log Management : ls -lrt /var/log/ & journalctl 
+
+- Permissions
+
+- Files, & Directories Management
+
+- Text Editors - CLI { vi or vim }
+
+- File Systems 

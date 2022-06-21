@@ -1,0 +1,32 @@
+Agenda :
+
+- Accessing Of AWS & Azure Cloud Computing Vendors :
+
+- Connecting to Cloud Computing Vendors using CLI & SDK
+
+- Provisioning of Ec2 instance in AWS using Shell Script
+
+- Provisioning of Virtual Machines in AZURE using Shell Script
+
+Q?
+
+AWS EC2 Instance:
+https://docs.aws.amazon.com/cli/latest/userguide/cli-services-ec2-instances.html
+
+Azure VM :
+https://docs.microsoft.com/en-us/azure/virtual-machines/windows/quick-create-portal
+
+# Provisioning of Infrastructure on Cloud using various ways:
+
+- GUI
+- CLI 
+- Scripts :
+    - Shell Script 
+    - Powershell Script 
+- Cloud Native Tools : AWS [CloudFormation] & Azure [ARM Templates]
+- 3rd Party Vendors : Terraform 
+
+
+
+cloudbinary@Clouds-MacBook-Pro ~ % az login
+

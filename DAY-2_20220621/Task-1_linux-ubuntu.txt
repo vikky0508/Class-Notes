@@ -1,0 +1,25 @@
+# Create a Linux Machine 
+
+- Check the files system :
+
+- Execute Basics commands
+
+- Check My Computer
+
+- List running Process :
+
+- Check SSHD is running or not using controlling services and daemon commands :
+
+- Create a file and add content 
+
+- Create a folder and add a file unto it 
+
+- Rename a file
+
+- Move a file and Folder to another location
+
+- Remove a file and folder 
+
+- Validate the file permissions 
+
+- Use help in cli : help man whereis whatis 
