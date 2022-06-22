@@ -1,0 +1,58 @@
+ubuntu@ip-172-31-13-23:~$ sudo hostnamectl set-hostname "web.devops.com"
+ubuntu@ip-172-31-13-23:~$ 
+ubuntu@ip-172-31-13-23:~$ /bin/bash
+ubuntu@web:~$ 
+ubuntu@web:~$ hostname
+web.devops.com
+ubuntu@web:~$ 
+ubuntu@web:~$ hostname -I
+172.31.13.23 
+ubuntu@web:~$ sudo vi /etc/hosts
+
+[No write since last change]
+
+Press ENTER or type command to continue
+ubuntu@web:~$ 
+ubuntu@web:~$ cat /etc/hosts
+127.0.0.1 localhost
+
+# The following lines are desirable for IPv6 capable hosts
+::1 ip6-localhost ip6-loopback
+fe00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+
+172.31.13.23 web.devops.com 
+ubuntu@web:~$
+
+
+Setup hostname using shell script:
+
+ubuntu@web:~$ sudo bash -x setup-hostname.sh 
++ sudo hostnamectl set-hostname web.cloudbinary.com
+++ awk '{ print $1 }'
+++ hostname -I
+++ hostname
++ echo '172.31.13.23 web.cloudbinary.com'
++ /bin/bash
+root@web:/home/ubuntu# 
+root@web:/home/ubuntu# hostname
+web.cloudbinary.com
+root@web:/home/ubuntu# 
+root@web:/home/ubuntu# cat /etc/hosts
+127.0.0.1 localhost
+
+# The following lines are desirable for IPv6 capable hosts
+::1 ip6-localhost ip6-loopback
+fe00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+
+172.31.13.23 web.devops.com 
+172.31.13.23 web.cloudbinary.com
+root@web:/home/ubuntu#
+

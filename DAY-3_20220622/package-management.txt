@@ -1,0 +1,31 @@
+https://en.wikipedia.org/wiki/Package_manager
+
+# Download, Install & Configure sofwares using package managers 
+#-----------------------------------------------------------------#
+Ubuntu/Debian linux distributions:
+# apt update 
+OR 
+# apt-get update 
+
+# apt install apache2 
+OR 
+# apt-get install apache2 
+
+# Manually Install software 
+dpkg -i <package_name>.deb 
+#-----------------------------------------------------------------#
+- AmazonLinux :
+
+- Redhat :
+    - Fedora
+    - RHEL
+    - CentOS
+
+- Oracle Linux 
+
+# Download, Install & Configure sofwares from internet 
+# yum install httpd 
+
+# Manually Install software 
+# rpm -i <package_name>.rpm 
+#-----------------------------------------------------------------#

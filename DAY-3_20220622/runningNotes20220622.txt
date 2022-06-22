@@ -1,0 +1,12 @@
+Agenda :
+
+- Webservers :
+    - Linux 
+    - Windows 
+
+- Deploy a Simple Website 
+
+Q?
+
+https://ubuntu.com/tutorials/install-and-configure-apache#1-overview
+

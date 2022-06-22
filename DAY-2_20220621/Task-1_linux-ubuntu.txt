@@ -4,7 +4,11 @@
 
 - Execute Basics commands
 
-- Check My Computer
+- Check My Computer :  
+    1. df -TH 
+    2. hostname
+    3. hostname -I
+    4. 
 
 - List running Process :
 

@@ -21,9 +21,12 @@
 
 - Commands : 1. Basic and 2. Advanced Commands 
 
-- Download, Install & Configure softwres using package managers # apt-get install apache2 
+- Download, Install & Configure sofwares using package managers # apt-get install apache2 
 
-- Controlling Services and Daemons : systemctl status apache2 
+- Controlling Services and Daemons : 
+    #  systemctl status apache2 
+    #  systemctl restart apache2
+    # systemctl stop apache2
 
 - Log Management : ls -lrt /var/log/ & journalctl 
 
