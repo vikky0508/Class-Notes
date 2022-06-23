@@ -1,0 +1,16 @@
+Agenda :
+
+OS Basics :
+    - Linux : Ubuntu :
+
+- Deploy a Simple Website 
+
+Q?
+
+https://ubuntu.com/tutorials/install-and-configure-apache#1-overview
+
+AWS EC2 Instance :
+https://docs.aws.amazon.com/cli/latest/reference/ec2/run-instances.html
+
+Azure VM :
+https://docs.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-cli

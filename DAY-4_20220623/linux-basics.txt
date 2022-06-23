@@ -1,0 +1,11 @@
+
+ubuntu@web:~$ pwd
+/home/ubuntu
+
+ubuntu@web:~$ whatis pwd
+pwd (1)              - print name of current/working directory
+
+ubuntu@web:~$ man pwd
+
+ubuntu@web:~$ whereis pwd
+pwd: /usr/bin/pwd /usr/share/man/man1/pwd.1.gz
