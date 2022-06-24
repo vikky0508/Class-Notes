@@ -1,0 +1,135 @@
+Agenda :
+
+Text Editors in Linux/Unix/MacOS :
+    - vi & vim 
+
+File System
+
+Basic & Advanced Commands :
+
+1. pwd
+2. ls 
+    ls -l 
+    ls -a 
+    ls -r 
+    ls -t 
+
+    # ls -lrta 
+
+3. tree 
+
+4. hostname
+
+5. hostname -I 
+
+6. cat /etc/os-release 
+
+7. uname 
+
+8. who
+
+9. vi & vim 
+
+10. ping 
+
+11. find 
+
+12. grep 
+
+13. awk 
+
+14. wget 
+
+15. curl 
+
+16. nslookup 
+
+17. netstat
+
+18. mkdir 
+
+19. cat 
+
+20. touch 
+
+21. rmdir 
+
+22. rm 
+
+23. mv 
+
+24. cp 
+
+26. su 
+
+27. mount -l 
+
+28. ifconfig & ipconfig 
+
+29. head 
+
+30. more 
+
+31. tail 
+
+32. whoami 
+
+33. whatis 
+
+34. whereis
+
+35. man <command> 
+
+36. chown 
+
+37. chmod 
+
+38. chgrp 
+
+39. du 
+
+40. useradd 
+
+41. usermod 
+
+42. userdel 
+
+43. env 
+
+44. sleep 
+
+45. echo 
+
+46. top 
+
+47. ps 
+
+48. kill 
+
+49. passwd 
+
+50. systemctl / serivce  / init 
+
+51. cal 
+
+52. date 
+
+53. history 
+
+54. groupadd, groupmod & groupdel 
+
+55. id 
+
+56. less 
+
+57. sort 
+
+58. wc 
+
+59. unzip 
+
+60. tar 
+
+61. poweroff , reboot restart 
+
+Q?
