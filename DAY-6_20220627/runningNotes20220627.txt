@@ -1,0 +1,13 @@
+Agenda :
+
+Databases :
+
+AWS EC2 Instance : Ubuntu 
+https://docs.aws.amazon.com/cli/latest/reference/ec2/run-instances.html
+
+Azure VM : Ubuntu Virtual Machine 
+https://docs.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-cli
+
+https://dev.mysql.com/downloads/file/?id=510453
+
+Q?
